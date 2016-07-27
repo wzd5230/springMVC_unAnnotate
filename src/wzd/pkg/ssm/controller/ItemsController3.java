@@ -10,6 +10,7 @@ import org.springframework.web.HttpRequestHandler;
 
 public class ItemsController3 implements HttpRequestHandler {
 
+	
 	@Override
 	public void handleRequest(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
